@@ -22,6 +22,7 @@ Contact me:
     
     Email               : techtareqofficial@gmail.com
     Team                : KNIGHT_SQUAD
+    Team Leader         : Noman Prodhan
     Position            : Learner
     Facebook Page       : https://www.facebook.com/im.nomanprodhan/
     My facebook Profile : https://www.facebook.com/nano.mate.1829
