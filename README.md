@@ -18,5 +18,4 @@ Installation :
 
 Contact me: 
     
-    Email   : techtareqofficial@gmail.com
-    Youtube : https://www.youtube.com/channel/UCMmakAM4tB740OURYWqQPEQ?view_as=subscriber  
+    Email   : techtareqofficial@gmail.com  
