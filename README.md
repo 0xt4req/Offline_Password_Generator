@@ -3,9 +3,11 @@
 
 Hello Guys. This is my first project. 
 
-This is a simple offline password generator written in C++. I hope you guys will like this. 
+This is a simple offline password generator tool  written in C++. I hope you guys will like this. 
 
-If you guys have any issue or my program has any vulnerability, please let me know. 
+If you guys have any issue or my program has any vulnerability, please let me know.
+
+And please always check for update for this tool. 
 
 Installation : 
 
@@ -18,4 +20,8 @@ Installation :
 
 Contact me: 
     
-    Email   : techtareqofficial@gmail.com  
+    Email               : techtareqofficial@gmail.com
+    Team                : KNIGHT_SQUAD
+    Position            : Learner
+    Facebook Page       : https://www.facebook.com/im.nomanprodhan/
+    My facebook Profile : https://www.facebook.com/nano.mate.1829
