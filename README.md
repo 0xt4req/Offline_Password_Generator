@@ -9,8 +9,8 @@ If you guys have any issue or my program has any vulnerability, please let me kn
 
 Installation : 
 
-    # git clone https://github.com/Nan0mate/0ffline_Password_Generator.git
-    # cd 0ffline_Password_Generator
+    # git clone https://github.com/Nan0mate/Offline_Password_Generator.git
+    # cd Offline_Password_Generator
     # chmod +x password_generator.cpp
     # sudo g++ password_generator.cpp
     # ./a.out
