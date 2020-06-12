@@ -1,6 +1,6 @@
 # Offline Password Generator
 
-version 1.0  Language C++
+### version 1.0  Language : C++
 
 Hello Guys. This is my first project. 
 
