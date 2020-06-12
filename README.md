@@ -1,5 +1,7 @@
 # Offline Password Generator
 
+version 1.0  Language C++
+
 Hello Guys. This is my first project. 
 
 This is a simple offline password generator tool  written in C++. I hope you guys will like this. 
