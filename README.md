@@ -1,5 +1,4 @@
-
-                                           Offline Password Generator
+# Offline Password Generator
 
 Hello Guys. This is my first project. 
 
@@ -9,7 +8,7 @@ If you guys have any issue or my program has any vulnerability, please let me kn
 
 And please always check for update for this tool. 
 
-Installation : 
+# Installation : 
 
     # git clone https://github.com/Nan0mate/Offline_Password_Generator.git
     # cd Offline_Password_Generator
@@ -18,7 +17,7 @@ Installation :
     # ./a.out
 
 
-Contact me: 
+# Contact me: 
     
     Email               : techtareqofficial@gmail.com
     Team                : KNIGHT_SQUAD
