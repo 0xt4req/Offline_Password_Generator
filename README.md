@@ -8,7 +8,7 @@ This is a simple offline password generator tool  written in C++. I hope you guy
 
 If you guys have any issue or my program has any vulnerability, please let me know.
 
-###And please always check for update for this tool. 
+### And please always check for update for this tool. 
 
 # Installation : 
 
