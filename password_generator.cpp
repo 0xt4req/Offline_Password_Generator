@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <string>
 #include <climits>
+#include <fstream>
 
 using namespace std;
 
@@ -37,13 +38,24 @@ while (1)
             cin.clear();
             cin.ignore(INT_MAX, '\n');;
         }
+        ofstream file;
+        file.open("passlist.txt");
+        file << "Current Generated Password : ";
+        
+        cout<<"The current generated password is save on passlist.txt in the folder\n\n";
 
         for (int j = 0; j < lenth; j++)
         {
             int password = rand() % (sizeof(pass) - 1);
+            file << pass[password];
             cout << pass[password];
         }
             cout <<endl<<endl;
+        
+        file.close();
+
     }
+
+    
     return 0;
 }
